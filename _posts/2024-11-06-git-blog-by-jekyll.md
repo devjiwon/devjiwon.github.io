@@ -1,5 +1,5 @@
 ---
-title: 깃허브 블로그 만들기
+title: Jekyll Chripy 테마로 Github Blog 만들기
 description: Jekyll 테마를 이용하여 Github Blog 만들기
 author: jiwon
 date: 2024-11-06 11:33:00 +0800

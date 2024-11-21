@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>journey-world</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-21T17:43:14+09:00</updated>
+  <updated>2024-11-21T17:47:56+09:00</updated>
   <author>
     <name>Jiwon</name>
     <uri>http://localhost:4000/</uri>
@@ -20,9 +20,33 @@
 
   
   <entry>
+    <title>자바스크립트의 비동기</title>
+    <link href="http://localhost:4000/posts/javascript-asynchronous/" rel="alternate" type="text/html" title="자바스크립트의 비동기" />
+    <published>2024-11-21T17:45:00+09:00</published>
+  
+    <updated>2024-11-21T17:45:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/javascript-asynchronous/</id>
+    <content src="http://localhost:4000/posts/javascript-asynchronous/" />
+    <author>
+      <name>jiwon</name>
+    </author>
+
+  
+    
+    <category term="javascript" />
+    
+  
+
+  <summary>자바스크립트의 구동 환경 및 비동기</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Jekyll Chripy 테마로 Github Blog 만들기</title>
     <link href="http://localhost:4000/posts/git-blog-by-jekyll/" rel="alternate" type="text/html" title="Jekyll Chripy 테마로 Github Blog 만들기" />
-    <published>2024-11-06T12:33:00+09:00</published>
+    <published>2024-11-06T11:33:00+09:00</published>
   
     <updated>2024-11-17T15:49:17+09:00</updated>
   

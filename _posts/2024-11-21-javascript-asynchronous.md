@@ -2,7 +2,7 @@
 title: 자바스크립트의 비동기
 description: 자바스크립트의 구동 환경 및 비동기 
 author: jiwon
-date: 2024-11-21 17:45:00 +0800
+date: 2024-11-21 17:45:00 +0900
 categories: [javascript]
 tags: [javascript, asynchronous]
 pin: false
